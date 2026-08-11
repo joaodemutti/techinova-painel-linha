@@ -28,5 +28,11 @@
     "descricao": "Vibracao do eixo principal",
     "valor": 68.0,
     "unidade": "F"
+  },
+  {
+    "codigo": "S-206",
+    "descricao": "Temperatura geral",
+    "valor": 99.0,
+    "unidade": "C"
   }
 ]
